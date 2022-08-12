@@ -7,11 +7,10 @@
 
 <h3>Quick Links</h3>
 <ul >
-  <li><a href="#">:green_book: Five Rudiments Of Python </a></li>
-  <li><a href="#">  :mortar_board: Learn Python Step by Step </a></li>
-    <li><a href="#">  :page_facing_up: Python Coding Snipptes </a></li>
-
-  <li><a href="https://github.com/chavarera/python-mini-projects">   :computer: Python Mini Project Collection </a></li>
+  <li>❤ Python Lover</a></li>
+  <li>:mortar_board: Learn Python Step by Step </a></li>
+  <li>:page_facing_up: Python Coding Snipptes </a></li>
+  <li>:computer: Python Mini Project Collection </a></li>
 </ul>
 <hr/>
  
